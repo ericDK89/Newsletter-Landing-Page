@@ -1,0 +1,43 @@
+@media screen and (max-width: 1280px) {
+
+    main{
+        display: grid;
+        grid-template-columns: 12fr;
+        text-align: center;
+        width: 100%;
+    }
+
+
+
+    aside{
+        margin-top: 25px;
+        width: 95%;
+    }
+
+    h1{
+        font-size: x-large;
+    }
+
+    p{
+        margin-top: 25px;
+        font-size: medium;
+    }
+
+    form{
+        margin-top: 25px;
+    }
+
+    input{
+        margin-top: 5px;
+        width: 300px;
+    } 
+
+    /* button{
+        width: 300px;
+    } */
+
+    img{
+        margin-right: 35px;
+        width: 200px;
+    }   
+}
