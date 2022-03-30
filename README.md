@@ -22,7 +22,7 @@ Tecnologias utilizadas:
 <img width="50" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
   
-##🚧 Em construção 🚧
+## 🚧 Em construção 🚧
 
 Ideia do projeto retirada do canal "Alexandre Saints". 
 
