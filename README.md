@@ -21,9 +21,9 @@ Tecnologias utilizadas:
 </div>
   
 
-  <div style='text-aling: center'>
-##🚧 Em construção 🚧
-  </div>
+##<div style='text-align: center'>
+      🚧 Em construção 🚧
+</div>
 Ideia do projeto retirada do canal "Alexandre Saints". 
 
 🖥 Link do vídeo que me inspirei: https://www.youtube.com/watch?v=edDCEK5QWE8
