@@ -1,10 +1,11 @@
 ## ✨ Newsletter Landing Page, inspirada no personagem 'Midoriya'. 
 
-###Desktop
+Desktop 
 
 <img witdh="500" title="Newsletter Landing Page" src="https://user-images.githubusercontent.com/68076508/160880550-88f5c69d-2061-41ad-8074-940b8e547505.png">
 
-###Mobile
+Mobile
+
 <img witdh="500" title="Newsletter Landing Page" src="https://user-images.githubusercontent.com/68076508/160880775-5e6c5f05-318a-4300-ace1-b4d65cba7c89.png">
 
 #### 🖥 Link para a landing page: 
@@ -20,6 +21,8 @@ Tecnologias utilizadas:
 </div>
   
 #
+
+###🚧 Em construção 🚧
 
 Ideia do projeto retirada do canal "Alexandre Saints". 
 
