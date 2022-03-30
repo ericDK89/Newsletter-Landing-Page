@@ -20,14 +20,14 @@ Tecnologias utilizadas:
 <img width="50" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
   
-#
 
-##                                                               🚧 Em construção 🚧
-
+  <div style='text-aling: center'>
+##🚧 Em construção 🚧
+  </div>
 Ideia do projeto retirada do canal "Alexandre Saints". 
 
 🖥 Link do vídeo que me inspirei: https://www.youtube.com/watch?v=edDCEK5QWE8
 
-#
+
 
 Feito por Eric <a href="https://www.linkedin.com/in/eric-macedo-9b47601b1/"> 🌌[ Veja meu LinkedIn ]</a>
