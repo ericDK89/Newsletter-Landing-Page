@@ -1,6 +1,7 @@
 ## ✨ Landing page, inspirada no personagem "Midoriya". 
 
-<img witdh="500" title="Newsletter Landing Page" src="">
+<img witdh="500" title="Newsletter Landing Page" src="![Desktop](https://user-images.githubusercontent.com/68076508/160880550-88f5c69d-2061-41ad-8074-940b8e547505.png)
+">
 
 #### 🖥 Link para a landing page: 
 
