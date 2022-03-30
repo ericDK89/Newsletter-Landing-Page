@@ -22,7 +22,7 @@ Tecnologias utilizadas:
   
 #
 
-###🚧 Em construção 🚧
+##                                                               🚧 Em construção 🚧
 
 Ideia do projeto retirada do canal "Alexandre Saints". 
 
