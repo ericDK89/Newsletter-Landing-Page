@@ -1,43 +1,26 @@
-@media screen and (max-width: 1280px) {
-
+@media screen and (max-width: 900px) {
     main{
-        display: grid;
-        grid-template-columns: 12fr;
-        text-align: center;
-        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
-
-
-
+    
     aside{
         margin-top: 25px;
-        width: 95%;
     }
 
-    h1{
-        font-size: x-large;
-    }
-
-    p{
-        margin-top: 25px;
+    h1, h2, p{
         font-size: medium;
     }
 
-    form{
-        margin-top: 25px;
+    input{
+        width: 300px;
     }
 
-    input{
-        margin-top: 5px;
-        width: 300px;
-    } 
-
-    /* button{
-        width: 300px;
-    } */
-
     img{
-        margin-right: 35px;
-        width: 200px;
+        width: 150px;
     }   
 }
+
+@media screen and (max-width: 600px) {
