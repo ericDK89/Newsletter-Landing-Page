@@ -5,7 +5,8 @@
 }
 
 html, body{
-    height: 100%;
+    height: 100vh;
+    width: 100vw;
     background-image: linear-gradient(-45deg, #5BD945, #339F21, #1B5511, #30343F, #2B2F3B, #1A1C23);
     font-family: poppinsregular;
 }
@@ -50,6 +51,7 @@ aside{
 
 h1, h2{
     font-size: 50px;
+    font-weight: bold;
 }
 
 p{
@@ -69,9 +71,9 @@ input{
 }
 
 .btn-success{
-    max-width: 125px;
+    max-width: 150px;
     text-align: center;
-    padding: 15px 0 15px 0;
+    padding: 15px;
     border-radius: 20px;
 }
  
