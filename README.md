@@ -4,7 +4,7 @@
 
   <img witdh="500" title="Newsletter Landing Page" src="https://user-images.githubusercontent.com/68076508/161868653-2fcebeeb-870c-44fb-822c-8fb8b43b0bb5.gif">
 
-  #### 🖥 Link para a landing page: 
+  #### 🖥 Link para a landing page: https://ericdk89.github.io/Newsletter-Landing-Page/
 
   ##
 
